@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../Recitation10-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../agriffit/homework/1" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../agriffit/homework/2" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../agriffit/homework/3" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../agriffit/homework/4" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../agriffit/recitation/02" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../agriffit/recitation/04" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../agriffit/recitation/06" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../agriffit/recitation/07" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../agriffit/recitation/08" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../agriffit/recitation/08-sol" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../F'18/17-214/agriffit/homework/4" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541008838565" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/build.gradle" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
